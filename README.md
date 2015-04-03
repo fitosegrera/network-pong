@@ -11,6 +11,16 @@ implementation of a 2 player pong game using OSC as the communication protocol
 
 ###Instructions
 
+To install the dependencies using pip:
+
+		cd network-pong
+
+		sudo pip install -r requirements.txt
+
+I you don't have pip installed, you can do it by following the instructions on this [LINK](https://pip.pypa.io/en/latest/installing.html)
+
+You can also install them manually via the links posted before.
+
 After installing the dependencies, download a copy of the repository in two different computers. To run the app cd to the folder and type: 
 
 		python main.py
